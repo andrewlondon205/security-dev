@@ -91,8 +91,4 @@ public class RegistrationController {
         roles.put("ROLE_MANAGER", "Manager");
         roles.put("ROLE_ADMIN", "Admin");
     }
-
-
-
-
 }
